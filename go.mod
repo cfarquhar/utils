@@ -1,4 +1,4 @@
-module github.com/gophercloud/utils
+module github.com/cfarquhar/utils
 
 require (
 	github.com/gophercloud/gophercloud v0.0.0-20190212181753-892256c46858
